@@ -1,3 +1,3 @@
-body.addEventListener("DOMContentLoaded", () => {
-    body.innerHTML = "DOM load success";
+document.addEventListener("DOMContentLoaded", () => {
+    document.body.textContent = "DOM load success";
 });
