@@ -1,1 +1,3 @@
-//your JS code here. If required.
+body.addEventListener("DOMContentLoaded", () => {
+    body.innerHTML = "DOM load success";
+});
